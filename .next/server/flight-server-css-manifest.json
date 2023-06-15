@@ -1,0 +1,26 @@
+{
+  "cssImports": {
+    "F:\\Desktop\\appwritecloud_nextjs\\app\\layout.js": [
+      "F:\\Desktop\\appwritecloud_nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "F:\\Desktop\\appwritecloud_nextjs\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "F:\\Desktop\\appwritecloud_nextjs\\app\\page": [
+      "F:\\Desktop\\appwritecloud_nextjs\\app\\globals.css",
+      "F:\\Desktop\\appwritecloud_nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "F:\\Desktop\\appwritecloud_nextjs\\app\\blog\\[slug]\\page": [
+      "F:\\Desktop\\appwritecloud_nextjs\\app\\globals.css",
+      "F:\\Desktop\\appwritecloud_nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "F:\\Desktop\\appwritecloud_nextjs\\app\\about\\page": [
+      "F:\\Desktop\\appwritecloud_nextjs\\app\\globals.css",
+      "F:\\Desktop\\appwritecloud_nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "F:\\Desktop\\appwritecloud_nextjs\\app\\contact\\page": [
+      "F:\\Desktop\\appwritecloud_nextjs\\app\\globals.css",
+      "F:\\Desktop\\appwritecloud_nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
